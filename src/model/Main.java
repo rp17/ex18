@@ -12,6 +12,8 @@ public class Main {
 		sensList.print();
 		AgentList agList = new AgentList();
 		agList.print();
+		Resources res = new Resources();
+		res.print();
 	}
 
 }
